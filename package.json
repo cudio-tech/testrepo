@@ -1,0 +1,25 @@
+{
+  "name": "user-management-service",
+  "version": "1.0.0",
+  "description": "User Management Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cudio-tech/testrepo.git"
+  },
+  "author": "GC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cudio-tech/testrepo/issues"
+  },
+  "homepage": "https://github.com/cudio-tech/testrepo#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.4"
+  }
+}
